@@ -2,7 +2,7 @@
 
 Clon visualmente fiel y completamente responsivo de la página de inicio de Tesla, desarrollado para demostrar habilidades avanzadas de maquetación front-end con un enfoque en la interactividad y el diseño limpio. Este proyecto recrea múltiples secciones complejas, desde menús desplegables dinámicos hasta un mapa interactivo.
 
-**🚀 Ver Demo en Vivo:** [**Clon de la pagina web**]((https://tesla-clone-lilac-six.vercel.app/)) <br/>
+**🚀 Ver Demo en Vivo:** [**Clon de la pagina web**]([https://tesla-clone-lilac-six.vercel.app/]) <br/>
 **🚀Ver original:** [**Pagina web Tesla Original**](https://www.tesla.com/es_ES?redirect=no)
 
 ![Captura de pantalla del proyecto Tesla Clone](./img/image.png)
